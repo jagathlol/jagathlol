@@ -29,8 +29,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-languages/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=jagatlol&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-languages/?username=jagathlol&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
@@ -39,7 +39,7 @@
 
 | Project | Description | Tech Stack |
 | :--- | :--- | :--- |
-| 🤖 **AI Socratic Tutor** | Interactive learning assistant using RAG architecture for context-driven guidance. | Python, FastAPI, PyTorch |
+| 🤖 **AI Socratic Tutor** | Interactive learning assistant using RAG architecture for context-driven guidance. | Python, FastAPI |
 | 📊 **Data Science Workflows** | End-to-end data analysis, modeling, and visualization suites. | Pandas, NumPy, Matplotlib |
 | ⚙️ **Dotfiles & Scripts** | Custom Linux workspace configurations and automated setup scripts. | Bash, Shell |
 
@@ -48,6 +48,5 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:jagath26151230@snuchennai.edu.in"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
