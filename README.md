@@ -1,16 +1,53 @@
-## Hi there 👋
+# Hi there, I'm Jagath 👋
 
-<!--
-**jagathlol/jagathlol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&pause=1000&color=36BCF7&width=500&lines=AI+%26+Data+Science+Undergrad;Building+ML+%26+RAG+Systems;Python+%26+Linux+Enthusiast" alt="Typing SVG" />
+</p>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+
+- 🎓 Pursuing a B.Tech in **Artificial Intelligence & Data Science**.
+- 🔭 Currently building **Retrieval-Augmented Generation (RAG)** pipelines & intelligent backends.
+- 🛠️ Daily driver: **Linux (Fedora GNOME)** for development & system customization.
+- ⚡ Deeply interested in **Machine Learning, Deep Learning (PyTorch), and Fast API microservices**.
+- 💬 Ask me about **Python, PyTorch, Linux troubleshooting, or AI workflows**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+**Languages & Frameworks**
+`Python` `FastAPI` `PyTorch` `Pandas` `NumPy` `Matplotlib` `OpenCV` `C/C++`
+
+**Tools & Environment**
+`Git` `GitHub` `Linux / Bash` `JupyterLab` `VS Code` `Docker` `ADB`
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=YOUR-GITHUB-USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-languages/?username=YOUR-GITHUB-USERNAME&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+### 📌 Featured Projects
+
+| Project | Description | Tech Stack |
+| :--- | :--- | :--- |
+| 🤖 **AI Socratic Tutor** | Interactive learning assistant using RAG architecture for context-driven guidance. | Python, FastAPI, PyTorch |
+| 📊 **Data Science Workflows** | End-to-end data analysis, modeling, and visualization suites. | Pandas, NumPy, Matplotlib |
+| ⚙️ **Dotfiles & Scripts** | Custom Linux workspace configurations and automated setup scripts. | Bash, Shell |
+
+---
+
+### 📫 Connect With Me
+
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
